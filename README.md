@@ -22,12 +22,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkseleuMaksat/AkseleuMaksat/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkseleuMaksat/AkseleuMaksat/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AkseleuMaksat/AkseleuMaksat/output/github-contribution-grid-snake.svg" />
-</picture>
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AkseleuMaksat&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AkseleuMaksat&theme=dark&hide_border=false)<br/>
