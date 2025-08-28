@@ -1,9 +1,3 @@
-## Hi, I'm Akseleu 👋  
-
-💻 Full-stack Java Developer  
-🚀 Skilled in Java, Spring Boot, Hibernate, SQL/NoSQL, Docker, CI/CD  
-📊 Passionate about building scalable backend systems  
-
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akseleu-maksat-48b05b275) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@akseleumaksat) 
