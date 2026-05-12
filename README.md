@@ -5,10 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/maksatakseleu/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://leetcode.com/u/AkseleuMaksat/)
 
-<picture>
-  <img alt="github-snake" src="https://github.com/bekonti/bekonti/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 # 💻 Tech Stack:
 ### 🌐 Backend & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
